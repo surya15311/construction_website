@@ -87,7 +87,10 @@ section {
   font-size: 2.5rem;
   color: var(--black);
   text-transform: capitalize;
+  text-align: left;
+  margin-right: 1rem; /* Adjust the margin value as needed */
 }
+
 .header .logo span {
   color: var(--yellow);
 }
@@ -759,5 +762,13 @@ section {
     font-size: 50%;
   }
 }
+
+
+#logo {
+  width: 350px;
+  height: fit-content;
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
